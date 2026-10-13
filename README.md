@@ -10,11 +10,11 @@
 
 ## 👋 Sobre mim
 
-Fala! Eu sou o **Darlan José** e curso **Análise e Desenvolvimento de Sistemas (ADS)**. Gosto de tecnologia e de descobrir como as coisas funcionam — principalmente quando posso aprender colocando a mão na massa.
+Oi, Eu sou o **Darlan José** e curso **Análise e Desenvolvimento de Sistemas (ADS)**. Gosto de tecnologia e de descobrir como as coisas funcionam — principalmente quando posso aprender colocando a mão na massa.
 
 - 💻 Tenho estudado desenvolvimento de software e praticado com projetos.
 - 🧠 Gosto de entender o que acontece por trás do código e resolver problemas.
-- 🎮 Quando saio da frente do computador, curto jogar e explorar assuntos novos.
+- 🎮 Quando não estou programando ou estudando, gosto de assistir animes e jogar.
 
 > **Meu ciclo de desenvolvimento:** testar, descobrir o que deu errado, pesquisar e tentar de novo. Uma hora funciona — e eu aprendo alguma coisa no caminho. 😅
 
@@ -65,7 +65,9 @@ Se quiser trocar uma ideia sobre tecnologia, programação ou aprendizado, pode 
   </tr>
 </table>
 
-<sub>Um passo de cada vez — o importante é continuar aprendendo.</sub>
+<p align="center">
+  <sub>Um passo de cada vez — o importante é continuar aprendendo.</sub>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:392078,100:9B5DE5" alt="Linha decorativa em tons de roxo" />
 
